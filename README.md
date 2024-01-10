@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FEF79E&height=400&section=header&text=True%20Word&fontAlign=17&fontAlignY=60&descAlign=26&desc=Hello&descSize=40&descAlignY=71&fontSize=50&fontColor=000000&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FEF79E&height=200&section=header&text=I'm&fontAlign=17&fontAlignY=60&descAlign=26&desc=SaeromKwon&descSize=40&descAlignY=71&fontSize=50&fontColor=000000&animation=twinkling)
 
 
 
