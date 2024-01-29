@@ -9,7 +9,7 @@ C++, C#, JAVA
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)]([https://hits.seeyoufarm.com](https://github.com/NonnaKwon))               
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/non1233/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=non1233)](https://solved.ac/non1233/)
 
 
 
