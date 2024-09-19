@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:9eecff,100:58eedd&height=150&text=Game%20Developer%20NonnaKwon&fontSize=40&textBg=false&desc=☁️New%20world,%20New%20Rom☁️&fontAlignY=45&descAlignY=75&section=header&animation=twinkling&fontColor=FFFFFF" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:9eecff,100:58eedd&height=150&text=Game%20Developer%20NonnaKwon&fontSize=40&textBg=false&desc=☁️New%20world,%20New%20Rom☁️&fontAlignY=45&descAlignY=75&section=header&animation=twinkling&fontColor=0F3067" />
 </div>
 
 ## Hi there 👋 I'm Searom Kwon 👩‍💻
