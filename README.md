@@ -55,7 +55,7 @@ Study -> Sturdy
 ---
 ### 🏅 Stat:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NonnaKwon&count_private=true&show_icons=true&theme=default)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NonnaKwon&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NonnaKwon&count_private=true&show_icons=true&theme=default)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NonnaKwon&layout=compact&theme=default&title_color=3CAFE0&text_color=4283AB&icon_color=3CAFE0&border_color=4283AB&hide_border=True)
 
 ---
 ### 💌 Contact:
