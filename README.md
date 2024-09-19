@@ -55,9 +55,7 @@ Study -> Sturdy
 ---
 ### 🏅 Stat:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NonnaKwon&count_private=true&show_icons=true&theme=default)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=non1233)](https://solved.ac/non1233/)
-<br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NonnaKwon&count_private=true&show_icons=true&theme=default)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NonnaKwon&layout=compact&theme=dark)
 
 ---
 ### 💌 Contact:
