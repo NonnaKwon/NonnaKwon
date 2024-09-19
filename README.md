@@ -16,14 +16,24 @@ Study -> Sturdy
 
 ---
 ### 🏢 Projects: 
-| Period | Company | Program |
-|-------|:--------:|:---------:|
-| `2023.12.` ~ `2024.06.` | d | q  |
-| `2023.05.` ~ `2023.07.` | a | e |
-| `2022.10.` ~ `2023.04.` | d| Tr |
-| `2019.12.` ~ `2020.08.` | s | Bd |
+ **👪 Team** <br/>
+> [우당탕탕 지구복귀  (우주 방탈출 게임 / 개발4, 기획5)](https://github.com/NonnaKwon/ReturnToEarth-Clone)<br/>
+> [Crazy Arcade  (멀티 플레이 게임, 모작 / 개발3)](https://github.com/NonnaKwon/KrustyKrab-CrazyArcade) <br/>
+> [Deserted City  (좀비생존게임 / 개발2)](https://github.com/NonnaKwon/Zombie_Team_Project) <br/>
+> [Crazy Birdie  (앵그리버드 3D + 골프, 외주 / 개발2 )](https://play.google.com/store/apps/details?id=com.PhiNetworks.com.AngryBirdie) <br/>
+> [Let's Cook! (오버쿡드 모작 / 개발4)](https://youtu.be/uKwbjMid2jY?si=jsBCb4OvclMoKXQK) <br/>
 
-<br>
+<br/>
+
+**🚶 Personal** <br/>
+> [Skul (스컬 모작)](https://github.com/NonnaKwon/Skul_Project) <br/>
+
+<br/> 
+
+**🤖 Side & Toys**<br/>
+> [ECS 시스템 보고서(진행중)] <br/>
+> [인벤토리 기능 프레임워크(진행중)]
+<br/> 
 
 ---
 ### 🛠️ Tech Stack:
