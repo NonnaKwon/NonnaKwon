@@ -32,7 +32,7 @@ Study -> Sturdy
 
 **🤖 Side & Toys**<br/>
 > [유니티 모바일 게임 성능 최적화 보고서](https://github.com/NonnaKwon/OptimizationDoc.git)<br/>
-> [ECS 시스템 보고서(진행중)] <br/>
+> [ECS 시스템 보고서(진행중)](https://github.com/NonnaKwon/ECSDoc.git) <br/>
 > [인벤토리 기능 프레임워크(진행중)] <br/> 
 
 ---
